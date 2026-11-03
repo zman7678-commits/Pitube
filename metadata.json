@@ -1,0 +1,6 @@
+{
+  "name": "pi Tube - Nonton Video Dapat Coin Pi",
+  "description": "Aplikasi nonton video dan foto berhadiah koin Pi Network yang dapat ditukar ke saldo Rupiah sesuai harga pasar CoinMarketCap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
